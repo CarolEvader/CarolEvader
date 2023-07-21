@@ -12,7 +12,7 @@
 
 # CarolEvader 🌝
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=CarolEvader&theme=vue-dark&count_private=true&show_icons=true">
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolEvader&theme=vue-dark&layout=compact">
-<img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolEvader&repo=CarolEvader&theme=dark">
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=CarolEvader&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolEvader&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolEvader&repo=CarolEvader&theme=dark">
 
